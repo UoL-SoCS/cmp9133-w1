@@ -16,7 +16,7 @@ Having said so, please fill this [form](https://forms.office.com/e/Rr7L7R4PTc) b
   1. Access the Workshop environment at the following [link](https://classroom.github.com/a/M8GZJ_h3).
      You will be greeted by the following message, and you need to accept the assignment.
      ![image](https://github.com/user-attachments/assets/a8e5e4cd-0ed0-433f-baef-931306a6424a)
-  2. After having accepted the new assignment, please open your development environment by clicking on the black button
+  2. After having accepted the new assignment, please open your development environment by clicking on the black button ("Open in GitHub Codespaces"))
       ![image](https://github.com/user-attachments/assets/8a33c2a6-69a0-4a26-82c9-02d56dbf8e5d)
   3. After some loading time, an instance of Visual Studio Code should be visible within your browser, similarly to what you can see in the following image
        ![image](https://github.com/user-attachments/assets/a53e5529-ed0c-46de-8ef2-1371e27fb076)
@@ -45,7 +45,7 @@ As the first task for this module, you need to implement a very simple script th
 
 ## Task 4: Submit your solution
 
-  1. When you are happy with your solution, it's now time to submit it online for being graded. You may see on the left an icon looking like a tree with a badge on it. Clickin on it will open a side menu for performing version control on our project:
+  1. When you are happy with your solution, it's now time to submit it online for being graded. You may see on the left an icon looking like a tree with a badge on it. Clicking on it will open a side menu for performing version control on our project:
 
        ![image](https://github.com/user-attachments/assets/c38ec856-b74b-45a0-b37a-5e0b61d9b2b6)
   
