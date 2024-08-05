@@ -8,6 +8,15 @@
 
 ## Task2: Setup coding environment
 
+  1. Access the Workshop environment at the following [link](https://classroom.github.com/a/M8GZJ_h3).
+     You will be greeted by the following message, and you need to accept the assignment.
+     ![image](https://github.com/user-attachments/assets/a8e5e4cd-0ed0-433f-baef-931306a6424a)
+  2. After having accepted the new assignment, please open your development environment by clicking on the black button
+      ![image](https://github.com/user-attachments/assets/8a33c2a6-69a0-4a26-82c9-02d56dbf8e5d)
+  3. After some loading time, an instance of Visual Studio Code should be visible within your browser, similarly to what you can see in the following image
+       ![image](https://github.com/user-attachments/assets/a53e5529-ed0c-46de-8ef2-1371e27fb076)
+  4. (Optional) If you are already familiar with VS Code and you have linked it to your GitHub account previously, you may log in to synchronise your own settings and extension.
+
 ## Task3: Hello, World!
 
 As the first task for this module, you need to implement a very simple script that outputs in console the string `Hello, World!`
@@ -28,6 +37,22 @@ As the first task for this module, you need to implement a very simple script th
       ![image](https://github.com/user-attachments/assets/e1bd356c-d257-4ba7-865b-98dceb48dbb6)
      Carefully inspecting the console may suggests how the implementation must look like in order to pass the test.
      Similarly, you can also check the `hello_world_test.cpp` file to better understand what output the tests expects.
+
+## Task 4: Submit your solution
+
+  1. When you are happy with your solution, it's now time to submit it online for being graded. You may see on the left an icon looking like a tree with a badge on it. Clickin on it will open a side menu for performing version control on our project:
+
+       ![image](https://github.com/user-attachments/assets/c38ec856-b74b-45a0-b37a-5e0b61d9b2b6)
+  
+  3. At this point, we want to `commit` the modification we made to the file `hello_world.cpp`. As such, click on the `+` symbol appearing when you hover with your mouse on this file. By doing so, we will add the `hello_world.cpp` file to the list of files staged for commit:
+
+      ![image](https://github.com/user-attachments/assets/9e4c6bab-3d63-4a5c-9e46-80caf83583f0)
+
+  4. We now need to specify a message for our commit. It must be anything informative about what we have done. You can simply type "Solution" in the text box and then press the green button. You should see now there are some files that need to be syncronised between our project and the remote:
+
+      ![image](https://github.com/user-attachments/assets/500bbd89-0e8f-446f-b0a6-290ad0582aa7)
+  5. Now press on the small arrow point up for pushing your changes to the cloud and submit your solution.
+
 
 
 
