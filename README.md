@@ -6,6 +6,11 @@
 
 ## Task1: Create a Github Account
 
+In case you don't have a GitHub account, you can create one at this [link](https://github.com/signup). 
+You **MUST** use always the same GitHub account when solving the assessments for this module, since we will keep a list of tuples `<student_id, student_name, student_surname, github_id>` and we allow submission only from one account per student.
+
+Having said so, please fill this [form](https://forms.office.com/e/Rr7L7R4PTc) before continuing with the tutorial 😀
+
 ## Task2: Setup coding environment
 
   1. Access the Workshop environment at the following [link](https://classroom.github.com/a/M8GZJ_h3).
