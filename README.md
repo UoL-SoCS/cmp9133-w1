@@ -59,6 +59,11 @@ As the first task for this module, you need to implement a very simple script th
 
       ![image](https://github.com/user-attachments/assets/3efd7430-936f-469d-bc90-b94fb8e4b733)
 
+## NOTE
+
+The tests files are protected, meaning that if you try to modify them to pass the test, this will be notified to us visually, with a label next to your submission. As a result, even in the case you successfully pass the test, we will consider you didn't make any submission and you will incur into a score of 0 for this specific workshop.
+
+![image](https://github.com/user-attachments/assets/db407e1d-9123-42d0-ad98-cae2b4251dd9)
 
 
 
