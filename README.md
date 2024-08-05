@@ -53,6 +53,11 @@ As the first task for this module, you need to implement a very simple script th
       ![image](https://github.com/user-attachments/assets/500bbd89-0e8f-446f-b0a6-290ad0582aa7)
   5. Now press on the small arrow point up for pushing your changes to the cloud and submit your solution.
 
+      ![image](https://github.com/user-attachments/assets/d03813dd-8b18-44d9-8a1b-8001f3f942b9)
+
+  6. You can now check on the Workshop page if you actually passed the test run in the cloud and graded. You should get an image similar to the following one, with a green tick or a red cross next to your submission depending if you passed the test or not. You can click on it to see more details.
+
+      ![image](https://github.com/user-attachments/assets/3efd7430-936f-469d-bc90-b94fb8e4b733)
 
 
 
