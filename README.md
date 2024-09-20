@@ -13,7 +13,7 @@ Having said so, please fill this [form](https://forms.office.com/e/Rr7L7R4PTc) b
 
 ## Task2: Setup coding environment
 
-  1. Access the Workshop environment at the following [link](https://classroom.github.com/a/M8GZJ_h3).
+  1. Access the Workshop environment at the following [link](https://classroom.github.com/a/sABNxXnr).
      You will be greeted by the following message, and you need to accept the assignment.
      ![image](https://github.com/user-attachments/assets/a8e5e4cd-0ed0-433f-baef-931306a6424a)
   2. After having accepted the new assignment, please open your development environment by clicking on the black button ("Open in GitHub Codespaces"))
