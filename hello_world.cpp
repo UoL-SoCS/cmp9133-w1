@@ -6,8 +6,3 @@
 std::string getHelloWorld() {
     // TODO: Return "Hello, World!"
 }
-
-// int main() {
-//     std::cout << getHelloWorld() << std::endl;
-//     return 0;
-// }
