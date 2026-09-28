@@ -15,9 +15,11 @@ Having said so, please fill this [form](https://forms.office.com/e/Rr7L7R4PTc) b
 
   1. Access the Workshop environment at the following [link](https://classroom.github.com/a/sABNxXnr).
      You will be greeted by the following message, and you need to accept the assignment.
-     ![image](https://github.com/user-attachments/assets/a8e5e4cd-0ed0-433f-baef-931306a6424a)
-  2. After having accepted the new assignment, please open your development environment by clicking on the black button ("Open in GitHub Codespaces"))
-      ![image](https://github.com/user-attachments/assets/8a33c2a6-69a0-4a26-82c9-02d56dbf8e5d)
+     <img width="1212" height="886" alt="image" src="https://github.com/user-attachments/assets/69b7b791-f69c-4a74-a0dd-76b63366a51e" />
+
+  2. After having accepted the new assignment, please open your repository, click on the green `<> Code` button, on the `Codespaces` tab and `Create codespaces on master` green button
+    <img width="1251" height="1053" alt="image" src="https://github.com/user-attachments/assets/243b428a-59d1-41e4-86c2-641fabeac1a7" />
+
   3. After some loading time, an instance of Visual Studio Code should be visible within your browser, similarly to what you can see in the following image
        ![image](https://github.com/user-attachments/assets/a53e5529-ed0c-46de-8ef2-1371e27fb076)
   4. (Optional) If you are already familiar with VS Code and you have linked it to your GitHub account previously, you may log in to synchronise your own settings and extension.
