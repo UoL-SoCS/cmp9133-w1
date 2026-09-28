@@ -62,15 +62,9 @@ As the first task for this module, you need to implement a very simple script th
 
       ![image](https://github.com/user-attachments/assets/d03813dd-8b18-44d9-8a1b-8001f3f942b9)
 
-  6. You can now check on the Workshop page if you actually passed the test run in the cloud and graded. You should get an image similar to the following one, with a green tick or a red cross next to your submission depending if you passed the test or not. You can click on it to see more details.
+  6. You can now check on your repository page if you actually passed the test run in the cloud and auto-graded. You should access the `Pull Request` tab, and then open the only one present there, which should be called `Feebback #1`. Here, you will see a list of all the committs made (by you) on this repository, and the results of the Github actions used for testing your code. Look for a green tick next to your last commit. If it's there, it means all has been successful. Differently, if there is a red cross, you can further inspect the cause of error and try to fix it into your code, after looking at the compilation logs.
+      <img width="1037" height="1237" alt="image" src="https://github.com/user-attachments/assets/21bcc9db-018e-4a63-8fa9-197f2ae6c735" />
 
-      ![image](https://github.com/user-attachments/assets/3efd7430-936f-469d-bc90-b94fb8e4b733)
-
-## NOTE
-
-The tests files are protected, meaning that if you try to modify them to pass the test, this will be notified to us visually, with a label next to your submission. As a result, even in the case you successfully pass the test, we will consider you didn't make any submission and you will incur into a score of 0 for this specific workshop.
-
-![image](https://github.com/user-attachments/assets/db407e1d-9123-42d0-ad98-cae2b4251dd9)
 
 
 
